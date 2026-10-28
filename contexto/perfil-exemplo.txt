@@ -1,0 +1,5 @@
+Nome: Ana Souza (exemplo)
+Formação: estudante de Ciência da Computação.
+Experiências: monitora de programação por 1 ano; projeto de planilha de controle de estoque.
+Idiomas: inglês avançado.
+Objetivo: estágio em análise de dados.
