@@ -27,8 +27,11 @@ Projeto em Python que responde perguntas usando somente um arquivo de contexto, 
 - `contexto/`: arquivos de contexto (exemplos fictícios).
 - `prompts/`: modelos de prompt reutilizáveis.
 - `tool_use.py`: programa com ferramentas de cálculo (média e porcentagem) que a IA pode acionar.
+- `skills/analise-vaga/SKILL.md`: skill com instruções reutilizáveis para analisar vagas.
+- `usa_skill.py`: programa que aplica a skill a uma vaga e a um perfil.
 
 ## Aprendizados
 - Uso de API e chaves seguras com variáveis de ambiente.
 - Prompts estruturados com tags e restrições anti-alucinação.
 - Tool use: como a IA pede a execução de funções e como validar as entradas.
+- Skills: instruções reutilizáveis em arquivo, com descrição de quando usar.
